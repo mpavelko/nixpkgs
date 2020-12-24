@@ -3085,6 +3085,8 @@ in {
 
   jsonrpc-websocket = callPackage ../development/python-modules/jsonrpc-websocket { };
 
+  jsonfield = callPackage ../development/python-modules/jsonfield { };
+
   jsonschema = callPackage ../development/python-modules/jsonschema { };
 
   jsonwatch = callPackage ../development/python-modules/jsonwatch { };
